@@ -35,3 +35,26 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+# Your work here
+
+## Wise words
+
+ _“All truly strong people are kind.”_ -  Takehiko Inoue
+ 
+https://www.goodreads.com/work/quotes/442311-25
+
+## My semester
+
+|__2401__|__4301__|__4395__|__4399__|
+|:-------|:-------|:-------|:-------|
+|_Data Science_|_Senior Project_|_Advance Numerical Methods_|_Intro to Topology_|
+|Dr.Shoemaker|Dr.King|Dr.Zafiris|Dr.Garza|
+
+## I recommend
+
+### d4vd - artist
+_"In the back of my mind, you died, And I didn't even cry, No, not a single tear."_ by d4vd
+
+- Romantic Homicide
+- 11:00 PM
+- Take Me To The Sun
